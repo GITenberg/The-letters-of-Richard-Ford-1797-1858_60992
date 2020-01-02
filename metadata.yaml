@@ -1,5 +1,8 @@
 _repo: The-letters-of-Richard-Ford-1797-1858_60992
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60992-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Ford, Richard
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3206
     wikipedia: http://en.wikipedia.org/wiki/Rowland_Prothero%2C_1st_Baron_Ernle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60992#The-letters-of-Richard-Ford-1797-1858
 gutenberg_issued: '2019-12-22'
 gutenberg_type: Text
 identifiers:
