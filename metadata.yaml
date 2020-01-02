@@ -1,0 +1,37 @@
+_repo: The-letters-of-Richard-Ford-1797-1858_60992
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ford, Richard
+    alias: Ford, Ricardo
+    birthdate: 1796
+    deathdate: 1858
+    gutenberg_agent_id: '41260'
+    url: http://www.gutenberg.org/2009/agents/41260
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Richard_Ford_(hispanista)
+    - http://en.wikipedia.org/wiki/Richard_Ford_%28writer%29
+  editor:
+    agent_name: Prothero, Rowland E. (Rowland Edmund), Baron Ernle
+    aliases:
+    - Prothero, Baron Rowland Edmund
+    - Ernle, Lord (Rowland Edmund Prothero)
+    - Ernle, Rowland Edmund Prothero, Baron
+    birthdate: 1851
+    deathdate: 1937
+    gutenberg_agent_id: '3206'
+    url: http://www.gutenberg.org/2009/agents/3206
+    wikipedia: http://en.wikipedia.org/wiki/Rowland_Prothero%2C_1st_Baron_Ernle
+description: ''
+gutenberg_issued: '2019-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The letters of Richard Ford, 1797-1858
+url: http://www.gutenberg.org/ebooks/60992
